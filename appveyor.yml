@@ -1,0 +1,13 @@
+version: 1.0.{build}
+configuration: Debug
+platform: x64
+build:
+  project: LeraCuteWin.sln
+  publish_nuget: true
+  include_nuget_references: true
+  verbosity: minimal
+test:
+  assemblies:
+    only:
+    - LeraFormTest2/bin/x64/Debug/LeraFormTest2.dll
+    - TestProj/bin/x64/Debug/TestProj.dll
