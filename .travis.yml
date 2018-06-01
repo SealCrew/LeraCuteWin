@@ -1,0 +1,21 @@
+language: csharp
+sudo: required
+
+solution: LeraCute.sln
+
+mono:
+    - latest
+
+before_install:
+    - sudo apt-get install nunit-console
+    
+install:
+    - nuget restore LeraCute.sln
+    - nuget install TestStack.White -Version 0.13.3 -OutputDirectory WhiteTestDirectory
+    - nuget install NUnit.Runners -Version 2.6.4 -OutputDirectory testRunner
+#before_script:
+  #- nuget restore LeraCute.sln
+script: 
+    - xbuild /p:Configuration=Debug /p:Platform=x64 LeraCute.sln
+    - mono ./testRunner/NUnit.Runners.2.6.4/tools/nunit-console.exe ./TestProj/bin/x64/Debug/TestProj.dll
+    - mono ./testRunner/NUnit.Runners.2.6.4/tools/nunit-console.exe ./LeraFormTest2/bin/x64/Debug/LeraFormTest2.dll
