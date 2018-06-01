@@ -1,0 +1,17 @@
+C:\Users\Dmitry\source\repos\LeraCuteProj\LeraForm\bin\x64\Debug\LeraForm.exe.config
+C:\Users\Dmitry\source\repos\LeraCuteProj\LeraForm\bin\x64\Debug\LeraForm.exe
+C:\Users\Dmitry\source\repos\LeraCuteProj\LeraForm\bin\x64\Debug\LeraForm.pdb
+C:\Users\Dmitry\source\repos\LeraCuteProj\LeraForm\bin\x64\Debug\LeraCute.exe
+C:\Users\Dmitry\source\repos\LeraCuteProj\LeraForm\bin\x64\Debug\UIAutomationClient.dll
+C:\Users\Dmitry\source\repos\LeraCuteProj\LeraForm\bin\x64\Debug\LeraCute.pdb
+C:\Users\Dmitry\source\repos\LeraCuteProj\LeraForm\bin\x64\Debug\LeraCute.exe.config
+C:\Users\Dmitry\source\repos\LeraCuteProj\LeraForm\obj\x64\Debug\LeraForm.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\source\repos\LeraCuteProj\LeraForm\obj\x64\Debug\LeraForm.myWin.resources
+C:\Users\Dmitry\source\repos\LeraCuteProj\LeraForm\obj\x64\Debug\LeraForm.Properties.Resources.resources
+C:\Users\Dmitry\source\repos\LeraCuteProj\LeraForm\obj\x64\Debug\LeraForm.csproj.GenerateResource.Cache
+C:\Users\Dmitry\source\repos\LeraCuteProj\LeraForm\obj\x64\Debug\LeraForm.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\LeraCuteProj\LeraForm\obj\x64\Debug\LeraForm.exe
+C:\Users\Dmitry\source\repos\LeraCuteProj\LeraForm\obj\x64\Debug\LeraForm.pdb
+C:\Users\Dmitry\source\repos\LeraCuteProj\LeraForm\bin\x64\Debug\UIAutomationClientsideProviders.dll
+C:\Users\Dmitry\source\repos\LeraCuteProj\LeraForm\bin\x64\Debug\UIAutomationProvider.dll
+C:\Users\Dmitry\source\repos\LeraCuteProj\LeraForm\bin\x64\Debug\UIAutomationTypes.dll

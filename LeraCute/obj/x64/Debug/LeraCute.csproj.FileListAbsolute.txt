@@ -1,0 +1,6 @@
+C:\Users\Dmitry\source\repos\LeraCuteProj\LeraCute\bin\x64\Debug\LeraCute.exe.config
+C:\Users\Dmitry\source\repos\LeraCuteProj\LeraCute\bin\x64\Debug\LeraCute.exe
+C:\Users\Dmitry\source\repos\LeraCuteProj\LeraCute\bin\x64\Debug\LeraCute.pdb
+C:\Users\Dmitry\source\repos\LeraCuteProj\LeraCute\obj\x64\Debug\LeraCute.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\LeraCuteProj\LeraCute\obj\x64\Debug\LeraCute.exe
+C:\Users\Dmitry\source\repos\LeraCuteProj\LeraCute\obj\x64\Debug\LeraCute.pdb

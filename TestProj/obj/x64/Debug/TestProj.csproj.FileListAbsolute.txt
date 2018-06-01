@@ -1,0 +1,11 @@
+C:\Users\Dmitry\source\repos\LeraCuteProj\TestProj\bin\x64\Debug\TestProj.dll
+C:\Users\Dmitry\source\repos\LeraCuteProj\TestProj\bin\x64\Debug\TestProj.pdb
+C:\Users\Dmitry\source\repos\LeraCuteProj\TestProj\bin\x64\Debug\LeraCute.exe
+C:\Users\Dmitry\source\repos\LeraCuteProj\TestProj\bin\x64\Debug\nunit.framework.dll
+C:\Users\Dmitry\source\repos\LeraCuteProj\TestProj\bin\x64\Debug\LeraCute.pdb
+C:\Users\Dmitry\source\repos\LeraCuteProj\TestProj\bin\x64\Debug\LeraCute.exe.config
+C:\Users\Dmitry\source\repos\LeraCuteProj\TestProj\bin\x64\Debug\nunit.framework.xml
+C:\Users\Dmitry\source\repos\LeraCuteProj\TestProj\obj\x64\Debug\TestProj.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\source\repos\LeraCuteProj\TestProj\obj\x64\Debug\TestProj.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\LeraCuteProj\TestProj\obj\x64\Debug\TestProj.dll
+C:\Users\Dmitry\source\repos\LeraCuteProj\TestProj\obj\x64\Debug\TestProj.pdb
